@@ -22,4 +22,4 @@ I am a Node.js and C# Developer.
 <br>
 <b>elementemerald#4175</b> (Discord)
 
-[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=elementemerald)](https://github.com/anuraghazra/github-readme-stats)
+[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=elementemerald&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
