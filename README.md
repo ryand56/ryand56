@@ -21,3 +21,5 @@ I am a Node.js and C# Developer.
 <b>ryand@emeraldsys.xyz</b> (Email)
 <br>
 <b>elementemerald#4175</b> (Discord)
+
+[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=elementemerald)](https://github.com/anuraghazra/github-readme-stats)
