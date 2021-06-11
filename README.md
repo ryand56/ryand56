@@ -25,4 +25,4 @@ I am a Node.js and C# Developer.
 
 [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=elementemerald&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Ryan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elementemerald)](https://github.com/anuraghazra/github-readme-stats)
+[![Ryan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elementemerald&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
