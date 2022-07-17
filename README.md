@@ -21,7 +21,7 @@ I am a Node.js and C# Developer.
 ### You can reach me at:
 <b>ryand@emeraldsys.xyz</b> (Email)
 <br>
-<b>elementemerald#4175</b> (Discord - Main)
+<b>ryan.#4175</b> (Discord - Main)
 <br>
 <b>ryand#0001</b> (Discord - Personal)
 <br>
