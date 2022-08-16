@@ -21,9 +21,15 @@ I am a Node.js and C# Developer.
 ### You can reach me at:
 <b>ryand@emeraldsys.xyz</b> (Email)
 <br>
-<b>ryand#4175 (660292639412846621)</b> (Discord - Main)
+<div>
+    <img align="left" alt="Discord" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/discord/discord.png" />
+    <b>ryand#4175 (660292639412846621)</b> (Main)
+</div>
 <br>
-<b>ryand#0001 (959994825485213746)</b> (Discord - Personal)
+<div>
+    <img align="left" alt="Discord" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/discord/discord.png" />
+    <b>ryand#0001 (959994825485213746)</b> (Personal)
+</div>
 <br>
 <b>JelloHelloItsDiamond</b> (Reddit - Main)
 <br>
