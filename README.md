@@ -40,4 +40,4 @@ I am a Node.js and C# Developer.
 <br>
 [![Ryan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elementemerald&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-- ⚠️ <b>I have changed to new GPG keys as of 08/16/22 - 9:45 PM MDT. The new GPG key ID is BA04423604E4FBD4. Any commits made by me with a different key from now on are not me.</b>
+- ⚠️ <b>I have changed to new GPG keys as of 08/16/22 - 9:45 PM MDT. The new GPG key IDs are BA04423604E4FBD4 (Desktop) and 057C46042C6BDA98 (MacBook). Any commits made by me with a different key not listed here from now on are not me.</b>
