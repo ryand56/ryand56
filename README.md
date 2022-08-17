@@ -4,8 +4,6 @@ I am a Node.js and C# Developer.
 <br>
 - I'm mainly working on security projects but I also make programs as well.
 <br>
-- ⚠️ <b>I have changed to new GPG keys as of 08/16/22 - 9:45 PM MDT. The new GPG key ID is BA04423604E4FBD4. Any commits made by me with a different key from now on are not me.</b>
-<br>
 
 ### Languages I code in and tools I use:
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" />
@@ -41,3 +39,5 @@ I am a Node.js and C# Developer.
 [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=elementemerald&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![Ryan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elementemerald&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+- ⚠️ <b>I have changed to new GPG keys as of 08/16/22 - 9:45 PM MDT. The new GPG key ID is BA04423604E4FBD4. Any commits made by me with a different key from now on are not me.</b>
