@@ -4,6 +4,8 @@ I am a Node.js and C# Developer.
 <br>
 - I'm mainly working on security projects but I also make programs as well.
 <br>
+- ⚠️ <b>I have changed to new GPG keys as of 08/16/22 - 9:45 PM MDT. The new GPG key ID is BA04423604E4FBD4. Any commits made by me with a different key from now on are not me.</b>
+<br>
 
 ### Languages I code in and tools I use:
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" />
