@@ -28,7 +28,7 @@ I am a Node.js and C# Developer.
 <br>
 <div>
     <img align="left" alt="Discord" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/discord/discord.png" />
-    <b>ryand#0001 (959994825485213746)</b> (Personal)
+    <b>ryand#5855 (959994825485213746)</b> (Personal)
 </div>
 <br>
 <b>JelloHelloItsDiamond</b> (Reddit - Main)
