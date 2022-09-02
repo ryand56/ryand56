@@ -36,6 +36,7 @@ I am a Node.js and C# Developer.
 <b>emeraldintothewild</b> (Reddit - Personal)
 <br>
 
+![Metrics](https://metrics.lecoq.io/elementemerald?template=classic&isocalendar=1&isocalendar.duration=full-year)
 [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=elementemerald&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![Ryan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elementemerald&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
