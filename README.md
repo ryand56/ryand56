@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=230375&height=300&section=header&text=elementemerald&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=code%20breaker&descAlignY=51&descAlign=62" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f88324&height=300&section=header&text=elementemerald&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=code%20breaker&descAlignY=51&descAlign=62" />
 
 ### Hi there, I'm Ryan.
 <br>
