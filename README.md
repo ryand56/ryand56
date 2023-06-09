@@ -16,20 +16,6 @@ I am a Node.js and C# Developer.
 ### You can reach me at:
 <b>ryand@emeraldsys.xyz</b> (Email)
 <br>
-<div>
-    <img align="left" alt="Discord" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/discord/discord.png" />
-    <b>ryand#4175 (660292639412846621)</b> (Main)
-</div>
-<br>
-<div>
-    <img align="left" alt="Discord" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/discord/discord.png" />
-    <b>ryand#5855 (959994825485213746)</b> (Personal)
-</div>
-<br>
-<b>JelloHelloItsDiamond</b> (Reddit - Main)
-<br>
-<b>emeraldintothewild</b> (Reddit - Personal)
-<br>
 
 ![Metrics](/github-metrics.svg)
 [![Ryan's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=elementemerald&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
