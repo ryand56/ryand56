@@ -1,5 +1,5 @@
 ### Hi there, I'm Ryan.
-I am a Node.js and C# Developer.
+I am a full stack web/software developer.
 <br>
 - I'm mainly working on security projects but I also make programs as well.
 <br>
