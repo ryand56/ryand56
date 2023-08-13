@@ -10,10 +10,6 @@ I am a full stack web/software developer.
 <br>
 
 
-### You can reach me at:
-<b>ryand@emeraldsys.xyz</b> (Email)
-<br>
-
 ![Metrics](/github-metrics.svg)
 [![Ryan's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ryand56&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
