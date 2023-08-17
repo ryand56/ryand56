@@ -2,7 +2,7 @@
 I am a full stack web/software developer pursuing a degree somewhere in technology.
 
 ## What am I currently working on?
-- I'm currently working on [R2 Upload Action](https://github.com/ryand56/r2-upload-action), a GitHub action that allows you to upload to an R2 bucket (or any S3 compatible API). but I also make programs as well.
+- I'm currently working on [R2 Upload Action](https://github.com/ryand56/r2-upload-action), a GitHub action that allows you to upload to an R2 bucket (or any S3 compatible API).
     - I'm also working on [Weatherscan Rewritten](https://github.com/ryand56/weatherscan-rewritten), a weather focused web app based on the original Weatherscan.
     - I also contribute to other open source projects such as [Replugged](https://github.com/replugged-org/replugged), a Discord client mod based on extensibility and performance.
     - Lastly, I'm also busy rewriting my [Portfolio](https://github.com/ryand56/portfolio) from time to time. :)
