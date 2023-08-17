@@ -8,5 +8,5 @@ I am a full stack web/software developer pursuing a degree somewhere in technolo
     - Lastly, I'm also busy rewriting my [Portfolio](https://github.com/ryand56/portfolio) from time to time. :)
 <br>
 
-## Languages I code in and tools I use:
+### Languages I code in and tools I use:
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,net,ts,react,nextjs,gatsby,js,nodejs,electron,express,mongo,mysql,html,css,markdown,lua,java,androidstudio,vscode,visualstudio,git,github,githubactions,gitlab,docker,linux,nginx,aws,gcp,azure,cloudflare,vercel,netlify,aftereffects,photoshop,stackoverflow,discord,twitter,linkedin,mastodon)](https://skillicons.dev/)
