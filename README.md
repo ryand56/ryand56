@@ -9,4 +9,11 @@ I am a full stack web/software developer pursuing a degree somewhere in technolo
 <br>
 
 ### Languages I code in and tools I use:
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,net,ts,react,nextjs,gatsby,js,nodejs,electron,express,mongo,mysql,html,css,markdown,lua,java,androidstudio,vscode,visualstudio,git,github,githubactions,gitlab,docker,linux,nginx,aws,gcp,azure,cloudflare,vercel,netlify,aftereffects,photoshop,stackoverflow,discord,twitter,linkedin,mastodon)](https://skillicons.dev/)
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,net,ts,react,nextjs,gatsby,js,nodejs,electron,express,mongo,mysql,html,css,markdown,lua,java,androidstudio,vscode,visualstudio,git,github,githubactions,gitlab,docker,nix,linux,nginx,aws,gcp,azure,cloudflare,vercel,netlify,aftereffects,photoshop,stackoverflow,discord,twitter,linkedin,mastodon)](https://skillicons.dev/)
+
+## Signing Keys
+As of 2024-07-07, I use these keys to sign my commits:
+```console
+Primary key fingerprint: CAF1fbxW8Q8gicmf+r19r1QrCXdMr1DTBmFYHJRAGDc
+Secondary key fingerprint: sVjJr61/BoaPmmWQ1Uc52LDtsv23XvRqVT8b4uvNqfQ
+```
