@@ -17,3 +17,7 @@ As of 2024-07-07, I use these keys to sign my commits:
 Primary key fingerprint: CAF1fbxW8Q8gicmf+r19r1QrCXdMr1DTBmFYHJRAGDc
 Secondary key fingerprint: sVjJr61/BoaPmmWQ1Uc52LDtsv23XvRqVT8b4uvNqfQ
 ```
+
+## Contact
+Matrix: @ryand56:matrix.ryand.ca
+Email: contact@ryand.ca
