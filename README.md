@@ -20,5 +20,5 @@ Secondary key fingerprint: sVjJr61/BoaPmmWQ1Uc52LDtsv23XvRqVT8b4uvNqfQ
 ```
 
 ## Contact
-Matrix: @ryand56:matrix.ryand.ca\
-Email: contact@ryand.ca
+Matrix: @ryan:ryand.ca\
+Email: ryan@ryand.ca
