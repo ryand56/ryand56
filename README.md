@@ -1,5 +1,5 @@
 # Hi there, I'm Ryan! 👋
-I am a full stack web/software developer pursuing a degree somewhere in technology. You can find me tinkering around more with special distros such as [Arch Linux](https://archlinux.org) or [NixOS](https://github.com/NixOS).
+I am a full stack web/software developer pursuing a degree somewhere in technology. You can find me tinkering around more with [NixOS](https://github.com/NixOS).
 
 ## What am I currently working on?
 - Currently contributing to the NixOS packages [repository](https://github.com/NixOS/nixpkgs).
@@ -10,7 +10,7 @@ I am a full stack web/software developer pursuing a degree somewhere in technolo
 <br>
 
 ### Languages I code in and tools I use:
-[![My Skills](https://skillicons.dev/icons?i=nix,arch,linux,cs,cpp,net,ts,react,nextjs,gatsby,js,nodejs,electron,express,mongo,mysql,html,css,markdown,lua,java,androidstudio,vscode,visualstudio,git,github,githubactions,gitlab,docker,nginx,aws,gcp,azure,cloudflare,vercel,netlify,aftereffects,photoshop,stackoverflow,discord,twitter,linkedin,mastodon)](https://skillicons.dev/)
+[![My Skills](https://skillicons.dev/icons?i=nix,linux,python,cs,cpp,net,ts,react,nextjs,gatsby,js,nodejs,electron,express,mongo,mysql,html,css,markdown,lua,java,androidstudio,vscode,visualstudio,git,github,githubactions,gitlab,docker,nginx,aws,gcp,azure,cloudflare,vercel,netlify,aftereffects,photoshop,stackoverflow,discord,twitter,linkedin,mastodon)](https://skillicons.dev/)
 
 ## Signing Keys
 As of 2024-07-07, I use these keys to sign my commits:
